@@ -3,12 +3,7 @@
   "clientId":"client",
   "clientSecret":"secret",
   "serviceId": 2,
-  "name":"login",
+  "name":"canalB",
   "id":10002,
-  "supportedGrantTypes":[
-    "java.util.HashSet",
-    [
-      "client_credentials"
-    ]
-  ]
+  "supportedGrantTypes": [ "java.util.HashSet", [ "client_credentials", "password" ] ]
 }
