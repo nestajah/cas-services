@@ -1,0 +1,14 @@
+{
+  "@class":"org.apereo.cas.services.OidcRegisteredService",
+  "clientId":"client4",
+  "clientSecret":"secret4",
+  "serviceId": 4,
+  "name":"canalD",
+  "id":10004,
+  "supportedGrantTypes":[
+    "java.util.HashSet",
+    [
+      "client_credentials"
+    ]
+  ]
+}
