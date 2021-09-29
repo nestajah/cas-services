@@ -5,5 +5,5 @@
   "serviceId" : "^(https?|imaps?|http?)://.*",
   "name": "canalA",
   "id": 10003,
-  "supportedGrantTypes": [ "java.util.HashSet", [ "client_credentials" ] ]
+  "supportedGrantTypes": [ "java.util.HashSet", [ "client_credentials", "password" ] ]
 }
