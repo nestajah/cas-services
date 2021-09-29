@@ -2,7 +2,7 @@
   "@class" : "org.apereo.cas.services.OidcRegisteredService",
   "clientId": "client2",
   "clientSecret": "secret2",
-  "serviceId" : "^(https?|imaps?|http?)://.*",
+  "serviceId" : 1,
   "name": "canalA",
   "id": 10003,
   "supportedGrantTypes": [ "java.util.HashSet", [ "client_credentials", "password" ] ]

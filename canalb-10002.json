@@ -2,7 +2,7 @@
   "@class":"org.apereo.cas.services.OidcRegisteredService",
   "clientId":"client",
   "clientSecret":"secret",
-  "serviceId":"^(https?|imaps?|http?)://.*",
+  "serviceId": 2,
   "name":"login",
   "id":10002,
   "supportedGrantTypes":[
