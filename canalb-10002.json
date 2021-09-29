@@ -5,5 +5,10 @@
   "serviceId": 2,
   "name":"canalB",
   "id":10002,
-  "supportedGrantTypes": [ "java.util.HashSet", [ "client_credentials", "password" ] ]
+  "supportedGrantTypes":[
+    "java.util.HashSet",
+    [
+      "client_credentials"
+    ]
+  ]
 }
